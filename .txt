@@ -1,0 +1,10 @@
+  {
+    "name": "The Art of Programming",
+    "year": 2005,
+    "author": "Alice Johnson",
+    "summary": "A comprehensive guide to programming concepts and practices.",
+    "publisher": "TechBooks Inc.",
+    "pageCount": 300,
+    "readPage": 150,
+    "reading": true
+  }
